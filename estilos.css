@@ -1,0 +1,30 @@
+body {
+    padding: 20px;
+}
+
+
+
+.navbar-brand, .nav-link {
+    font-weight: bold;
+    color: white;
+}
+
+
+
+.content-title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+.highlighted-text {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+
+.buttons-container {
+    margin-bottom: 20px;
+}
